@@ -15,12 +15,12 @@ body {
   color: #222;
   font-size: 13px;
 }
-
-a, a:hover {	
-	color:#222;
-	text-decoration: none;
+a {
+  text-decoration: none;
 }
-
+a:hover, a:active {
+  text-decoration: underline;
+}
 .g_header_navbar {
   float: right;
   margin-right: 15px;

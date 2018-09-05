@@ -22,7 +22,7 @@ a, a:hover {
 }
 
 .g_header_navbar {
-	float: right;
+  float: right;
   margin-right: 15px;
 }
 
@@ -36,22 +36,21 @@ a, a:hover {
 }
 
 .g_btn_apps {
+  vertical-align: middle;
   display: inline-block;
   outline: none;
   height: 30px;
   width: 30px;
-  -webkit-border-radius: 2px;
-  border-radius: 2px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-
   background-image: url('/assets/images/i1_1967ca6a.png');
   background-position: -132px -38px;
   background-size: 528px 68px;
   opacity: .55;
 }
 
-.g_btn_account {	
+.g_btn_account {
+  display: block;
   border: 1px solid #4285f4;
   background: #4285f4;
   background: -webkit-linear-gradient(top,#4387fd,#4683ea);

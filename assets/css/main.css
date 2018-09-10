@@ -35,6 +35,10 @@ a:hover, a:active {
 	margin: 5px 5px 0 0;
 }
 
+.g_header-navbar a:link {
+  color: #222;
+}
+
 .g_btn-apps {
   vertical-align: middle;
   display: inline-block;
@@ -65,7 +69,7 @@ a:hover, a:active {
   padding: 0 12px;
   -webkit-border-radius: 2px;
   border-radius: 2px;
-  color: #fff;
+  color: #fff!important;
 }
 
 /* Big Search of the world  */

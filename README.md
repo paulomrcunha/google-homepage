@@ -6,4 +6,4 @@ From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-d
 
 All trademarks, images and logos appearing on the project are the property of their respective owners.
 
-The final project [Google Homepage](https://paulomcunha.github.io/google-homepage/)
+The final project [Google Homepage](https://paulomrcunha.github.io/google-homepage/)

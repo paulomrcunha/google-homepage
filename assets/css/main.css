@@ -46,7 +46,7 @@ a:hover, a:active {
   width: 30px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  background-image: url('/assets/images/i1_1967ca6a.png');
+  background-image: url(/assets/images/i1_1967ca6a.png);
   background-position: -132px -38px;
   background-size: 528px 68px;
   opacity: .55;
